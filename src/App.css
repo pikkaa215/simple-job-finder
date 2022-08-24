@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.DetailContainer {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+
